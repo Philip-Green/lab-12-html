@@ -40,8 +40,15 @@ h2{
   padding: 40px;
 }
 
-#intro{
+#intro {
 border-width: 12px;
 border-style: solid;
 border-color: black;
+}
+
+.spotlight{
+background-color: #FEFE22
+}
+.spotlight{
+background-color: #FEFE22
 }
