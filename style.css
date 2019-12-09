@@ -1,0 +1,41 @@
+body{
+  background-color: grey;
+}
+
+ h1{
+   color: violet;
+ }
+
+h2{
+  color: teal;
+}
+
+tr{
+  color: orange;
+}
+h4{
+  color: green;
+}
+
+*{
+  font-family: sans-serif;
+}
+
+p {
+    color: blue;
+}
+p{
+  font-size: 12px;
+}
+h2{
+  text-decoration: underline;
+}
+p{
+  text-transform: uppercase;
+}
+h2{
+  margin: 20px;
+}
+h2{
+  padding: 40px;
+}
